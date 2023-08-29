@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>gambar di teks</title>
+</head>
+<body>
+    <h1>Single Picture</h1>
+    <img src="1.png" width="200" height="200">
 
+    <h3>Picture in text</h3>
+    <img src="1.png" width="70" height="80" align="center"
+    hspace="0" vspace="0">
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+</body>
+</html>
